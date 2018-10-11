@@ -4,7 +4,7 @@ css格式化导航菜单
 html部分
 <body>
  <header>
-  <div class="logo"></div>
+ <div class="logo"></div>
   <nav>
   <ul>
   <li>HTML</li>
@@ -90,3 +90,4 @@ display:inline-block;
 </head>
 </html>
 ```
+效果就好看了很多
